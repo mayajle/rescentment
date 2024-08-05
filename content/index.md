@@ -7,7 +7,7 @@ toc: false
 image: spiral-overlay.png
 ---
 
-[Since arriving at the Getty in early June, I have become deeply attuned to its smells. There’s the crisp scent of the gallery air conditioning, with notes of cleaning products and old pages. The fragrance of lavender greets me just outside the South Building, and in the Cafe, the rich aroma of carne asada tacos makes my stomach grumble. Elsewhere, I smell the wafting breezes of passing visitors’ perfumes and colognes—mixing sandalwood, vanilla, rose, and bergamot.]{.mark}
+Since arriving at the Getty in early June, I have become deeply attuned to its smells. There’s the crisp scent of the gallery air conditioning, with notes of cleaning products and old pages. The fragrance of lavender greets me just outside the South Building, and in the Cafe, the rich aroma of carne asada tacos makes my stomach grumble. Elsewhere, I smell the wafting breezes of passing visitors’ perfumes and colognes—mixing sandalwood, vanilla, rose, and bergamot.
 
 [For me, however, the most powerful fragrance at the Getty is that of the star jasmine. This white flower lines many walkways of the museum and blooms beautifully in the Garden. One Getty blog post described it as such: “This sweet-smelling flowering plant is native to eastern and southeastern Asia and can be found all over the Getty Center, not just in the Central Garden. A valuable perfume oil can be extracted from the flowers and a diluted form is often used in Chinese, Vietnamese, and Thai incenses. Flowering usually begins in May and continues through June.”]{.mark}[^1]
 
