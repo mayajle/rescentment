@@ -1,5 +1,5 @@
 ---
-title: About
+title: About the Author
 layout: page
 order: 503
 outputs:
