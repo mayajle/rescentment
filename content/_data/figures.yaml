@@ -136,12 +136,19 @@ figure_list:
 
   - id: "hsu"
     src: figures/hsu.jpg
-    
+
   - id: "march"
     src: figures/march.jpg
   
   - id: "soleil"
     src: figures/soleil.jpg
+  - id: "fu"
+    src: figures/fu.jpg
 
+  - id: "karamaneh"
+    src: figures/karamaneh.png
+    
+  - id: "hound"
+    src: figures/hound.jpg
   
   
