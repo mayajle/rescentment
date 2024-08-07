@@ -5,3 +5,5 @@ order: 6
 presentation: list
 search: false
 ---
+
+{% figure 'fresco' %}
