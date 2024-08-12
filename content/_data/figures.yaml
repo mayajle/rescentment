@@ -6,58 +6,112 @@ figure_list:
     credit: The J. Paul Getty Museum, Los Angeles
 
   - id: "fresco"
-    src: figures/fresco.jpg
-    caption: "A fresco..."
+    src: figures/fresco.png
+    caption: "*Fresco Fragment with Cupids and Psyche Making Perfume*."
     credit: The J. Paul Getty Museum, Los Angeles
   
   - id: "sniff"
     src: figures/sniff.jpg
     caption: "A couple smelling flowers in the Central Garden"
-    credit: The J. Paul Getty Museum, Los Angeles
+    credit: The J. Paul Getty Museum, Los Angeles.
 
   - id: "leaves"
     src: figures/leaves.jpg
+    caption: "William Henry Fox Talbot, *Leaves of Jasmine*."
 
   - id: "orientalism"
     src: figures/orientalism.jpg
+    caption: "*Orientalism* by Edward Said."
 
   - id: "washer"
     src: figures/washer.jpg
+    caption: "1886 advertisement for The George Dee Magic Washing Machine Company depicting Uncle Sam kicking Chinese immigrants."
 
   - id: "hsu"
     src: figures/hsu.jpg
+    caption: "*The Smell of Risk: Environmental Disparities and Olfactory Aesthetics* by Hsuan L. Hsu."
 
   - id: "march"
     src: figures/march.jpg
+    caption: "The Salt March, led by Mahatma Gandhi in 1930, protesting the British taxation of salt."
   
   - id: "soleil"
     src: figures/soleil.jpg
+    caption: "Thao Nguyen Phan, *First Rain, Brise Soleil*."
+
   - id: "fu"
     src: figures/fu.jpg
+    caption: "*The Insidious Dr. Fu-Manchu* by Sax Rohmer."
 
   - id: "karamaneh"
     src: figures/karamaneh.png
+    caption: "Another cover of *The Insidious Dr. Fu-Manchu*, detailing Karamaneh and Fu-Manchu."
     
   - id: "hound"
     src: figures/hound.jpg
+    caption: "*The Hound of the Baskervilles* by Sir Arthur Conan Doyle."
+
   
   - id: "sandalwood"
     src: figures/sandalwood.jpg
+    caption: "Sandalwood trees in Hawai'i."
  
   - id: "smellscape"
     src: figures/smellscape.jpg
+    caption: "A smellscape of Singapore, as identified by a series of 18 'smellwalks' by local Singaporeans in 2015. Source: Sensory Maps."
   
   - id: "trask"
     src: figures/trask.jpeg
+    caption: Haunani-Kay Trask.
 
   - id: "fire"
     src: figures/fire.png
+    caption: "A photo of the Maui wildfires in 2023, with the Waiola Church, left, and the Lahaina Hongwanji Mission, right, engulfed in flames. Source: Matthew Thayer, The Maui News."
 
   - id: "burnt"
-    src: figures/burnt.jpg  
+    src: figures/burnt.jpg
+    caption: "The aftermath of the fire in the Wahikuli Terrace neighborhood of Lahaina. Source: Mike Blake."
 
-  - id: "jasmine"
-    src: figures/jasmine.gif  
+  - id: "sunflower"
+    src: figures/sunflower.jpg
+    caption: "Ai Weiwei, *Sunflower Seeds*."
 
-  - id: "large"
-    src: figures/large.gif  
+  - id: "tempura"
+    src: figures/tempura.jpeg
+    caption: "Anicka Yi, *Sister*."
+  
+  - id: "love"
+    src: figures/love.jpg
+    caption: "Installation view of Anicka Yi's *In Love With The World* at Tate Modern."
+
+  - id: "lifestyle"
+    src: figures/lifestyle.jpg
+    caption: "Anicka Yi, *Lifestyle Wars*."
+  - id: "ants"
+    src: figures/ants.jpg
+    caption: "Detail of the ants in *Lifestyle Wars*."
+    
+  - id: "force"
+    src: figures/force.jpg
+    caption: "Anicka Yi, *Force Majeur*."
+  
+  - id: "f"
+    src: figures/f.jpg
+    caption: "Anicka Yi, *You Can Call me F*."
+  - id: "caucas"
+    src: figures/caucas.jpeg
+    caption: "Anicka Yi, *Immigrant Caucas*."
+
+  - id: "salt"
+    src: figures/salt.png
+    caption: "*The Book of Salt* by Monique Truong."
+  
+  - id: "dogs"
+    src: figures/dogs.jpg
+    caption: "Gertrude Stein and Alice B. Toklas walking their dog in France, 1944. Photograph by Carl Mydans."
+
+  - id: "ocean"
+    src: figures/ocean.jpg
+    caption: "*On Earth We're Briefly Gorgeous* by poet, essayist, and novelist Ocean Vuong."
+  - id: "cover"
+    src: figures/cover.jpeg
