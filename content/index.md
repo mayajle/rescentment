@@ -4,5 +4,5 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: figures/large.gif  
+image: figures/cover.jpg
 ---
