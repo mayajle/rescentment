@@ -4,6 +4,14 @@
 // Custom font declarations (if any) can be imported here
 $assets-dir: "/_assets/" !default;
 
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;1,300&display=swap');
+
+// <uniquifier>: Use a unique and descriptive class name
+
+
 @function font($file) {
   @return url($assets-dir + 'fonts/' + $file);
 }

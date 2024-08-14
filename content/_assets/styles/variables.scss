@@ -78,10 +78,10 @@ $print-entry-image-display: all; // first | all
 // Themes
 // -----------------------------------------------------------------------------
 // Declare theme variables
-$quire-primary-font: null; // body and menu text
-$quire-headings-font: null; // headings
-$quire-footnotes-font: null; // footnotes and page backmatter
-$quire-navigation-font: null; // navbar and next/prev buttons
+$quire-primary-font: "Be Vietnam Pro", sans-serif; // body and menu text
+$quire-headings-font: "Be Vietnam Pro", sans-serif; // headings
+$quire-footnotes-font: "Be Vietnam Pro", sans-serif; // footnotes and page backmatter
+$quire-navigation-font: "Be Vietnam Pro", sans-serif; // navbar and next/prev buttons
 
 @if $theme == classic {
   // Classic Theme
